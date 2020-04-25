@@ -1,7 +1,7 @@
 install.packages("devtools")
 library(devtools)
 install_github("andrewzm/STRbook")
-install_version("ggplot2", version = "0.9.1", repos = "http://cran.us.r-project.org")​
+install_version("ggplot2", version = "0.9.1", repos = "http://cran.us.r-project.org")
 install.packages("animation")
 install.packages("ape")
 install.packages("broom")
