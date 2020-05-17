@@ -4,3 +4,6 @@
 
 Click the button above to reproduce the code!
 
+The book **"Spatio-Temporal Statistics with R"** is [HERE](https://spacetimewithr.org/)
+
+The code for this book is [HERE](https://github.com/andrewzm/STRbook)
